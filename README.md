@@ -1,4 +1,4 @@
-<img src= "https://66.media.tumblr.com/9cfc02b72fa319eb2a128f7fd30756aa/171346376ae8acc1-ae/s640x960/474fea9aa097c6806ac3e93c7bb777a6f6caae86.png" width = 50>  
+<img src= "https://66.media.tumblr.com/9cfc02b72fa319eb2a128f7fd30756aa/171346376ae8acc1-ae/s640x960/474fea9aa097c6806ac3e93c7bb777a6f6caae86.png" width = 80>  
 
 # Data science, ML and deep Learning notebooks
 
