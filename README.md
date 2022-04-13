@@ -1,4 +1,7 @@
-# ![](https://github.com/NimaZah/DS-and-ML-notebooks/blob/main/images/deep_learning.png) Data science, ML and deep Learning notebooks
+<img src= "https://66.media.tumblr.com/9cfc02b72fa319eb2a128f7fd30756aa/171346376ae8acc1-ae/s640x960/474fea9aa097c6806ac3e93c7bb777a6f6caae86.png" width = 50>  
+
+# Data science, ML and deep Learning notebooks
+
 
 A series of notebooks that demonstrate some of my previous projects (`only those I have permission to share`).
 
@@ -17,7 +20,7 @@ Please cite the following if you use the code examples in your work:
 ```
 @misc{zahedi2022,
   author = {Zahed, Nima},
-  title = {Data Science and ML notebooks},
+  title = {Data science, ML and deep Learning notebooks},
   year = {2022},
   publisher = {GitHub},
   journal = {GitHub repository},
