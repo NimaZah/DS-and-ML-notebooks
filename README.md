@@ -1,4 +1,4 @@
-# Data science, ML and deep Learning notebooks
+# ![](https://github.com/NimaZah/DS-and-ML-notebooks/blob/main/images/deep_learning.png) Data science, ML and deep Learning notebooks
 
 A series of notebooks that demonstrate some of my previous projects (`only those I have permission to share`).
 
@@ -21,6 +21,6 @@ Please cite the following if you use the code examples in your work:
   year = {2022},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/NimaZah/DS-and-ML-notebooks}},
+  howpublished = {https://github.com/NimaZah/DS-and-ML-notebooks/blob/main/README.md},
 }
 ```
