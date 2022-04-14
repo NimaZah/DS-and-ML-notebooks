@@ -14,6 +14,7 @@ A series of notebooks that demonstrate some of my previous projects (`only those
 | Global Military Trends | Analyzing the levels of military power of countries, the arms trade, and the patterns of military spending for 1970-2014 | Data Science | [![ Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NimaZah/Global-Military-Trends/blob/main/rDMC.ipynb) ||
 | Kuala Lumpur property prices | Predicting the sail price of property in Kuala Lumpur | Deep learning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NimaZah/HoursePriceKaggle/blob/main/HoursePriceKaggle.ipynb) |  |
 | Hidden structure of partisan language | Using word2vec to uncover the changes in  American political discourse | NLP | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NimaZah/Partisan-language/blob/main/partisan_language.ipynb) |  |
+| Causal inferences and machine learning with news media content | Combining causal inference methods with ML to capture complex relations between words in news articles | NLP & machine learning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 <br>
 
 Please cite the following if you use the code examples in your work
