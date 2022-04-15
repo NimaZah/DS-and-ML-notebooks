@@ -15,7 +15,7 @@ A series of notebooks that demonstrate some of my previous projects (`only those
 | Python| Kuala Lumpur property prices | Predicting the sail price of property in Kuala Lumpur | Deep learning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NimaZah/HoursePriceKaggle/blob/main/HoursePriceKaggle.ipynb) |  |
 | Python| Hidden structure of partisan language | Using word2vec to uncover the changes in  American political discourse | NLP | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NimaZah/Partisan-language/blob/main/partisan_language.ipynb) |  |
 | Python| Causal inferences and machine learning with news media content | Combining causal inference methods with ML to capture complex relations between words in news articles | NLP & machine learning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NimaZah/DoubleML/blob/main/DoubleML.ipynb)
-| R|Violent Ethnic Conflict| Explaining why ethnic groups are more likely to fight in particular times and places | Data science |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NimaZah/Ethnic-Conflict/blob/main/EthnicConflictipynb.ipynb)
+| R|Violent Ethnic Conflict| Exploring why ethnic groups are more likely to fight in particular times, places, and conditions | Data science |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NimaZah/Ethnic-Conflict/blob/main/EthnicConflictipynb.ipynb)
 <br>
 
 Please cite the following if you use the code examples in your work
