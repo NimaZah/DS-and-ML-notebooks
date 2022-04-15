@@ -16,6 +16,7 @@ A series of notebooks that demonstrate some of my previous projects (`only those
 | Python|Monetary Donations to Political Parties| Analyzing the origin of cash donations to political parties in India (2003-2015) | Data science |[![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NimaZah/Political-Donation-in-India/blob/main/Donations_to_national_political_parties_India.ipynb) | |
 | Python| Global Military Trends | Analyzing the levels of military power of countries, the arms trade, and the patterns of military spending for 1970-2014 | Data Science | [![ Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NimaZah/Global-Military-Trends/blob/main/rDMC.ipynb) ||
 | R| Violent Ethnic Conflict| Exploring why ethnic groups are more likely to fight in particular times, places, and conditions | Data science |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NimaZah/Ethnic-Conflict/blob/main/EthnicConflictipynb.ipynb)
+|R| The Impact of US Foreign Aid on Terrorism in Rivalrous States | Explaining the efficacy of foreign assistance strategy in fragile states | Data science | [![ Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NimaZah/ForeingAid/blob/main/ForiengAid.ipynb)
 <br>
 
 Please cite the following if you use the code examples in your work
